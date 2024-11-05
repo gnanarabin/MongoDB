@@ -442,7 +442,7 @@ db.products.updateMany({},{$set:{categories:['electronics']}})
 #### Delete and Prepare dataset
 
 ```
-db.products.deleteMany({})
+db.products.deleteMany({}) 
 ```
 
 ```
